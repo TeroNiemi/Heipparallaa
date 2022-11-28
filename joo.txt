@@ -1,4 +1,9 @@
 lksdfjlkdjflksdjfklsdflskjlkfjlkdsjfkdfkdjs
 memem
 ksdfjlksdjflksdjflsjdkf
+<<<<<<< HEAD
 lisätty rivi
+=======
+add new line here!!!!!
+>>>>>>> 5e3ae46b74cc43b56293c51a7f43a547f3e291a8
+joopa joo
